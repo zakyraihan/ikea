@@ -1,0 +1,18 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/images/Splash Screen.png
+  image_dark: assets/images/Splash Screen.png
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/images/Splash Screen.png
+    image_dark: assets/images/Splash Screen.png 
+
+  web: true
+  android: true
+  ios: true
+  clipToCircle: false
+  image_scale: "fit_contain"
+  
